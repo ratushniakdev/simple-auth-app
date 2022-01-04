@@ -10,6 +10,7 @@
 
 - React with hooks
 - React Context API
+- Typescript
 
 ## Available Scripts
 
